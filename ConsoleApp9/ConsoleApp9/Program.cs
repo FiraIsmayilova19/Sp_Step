@@ -19,7 +19,7 @@ class Program
         if (choice == "single")
         {
 
-            ProcessFilesSingleThread();
+            ProcessFilesSingleThread(); 
         }
         else if (choice == "multiple")
         {
@@ -52,8 +52,6 @@ class Program
             File.WriteAllText($"users{i + 1}.json", json);
         }
     }
-
-
     static void ProcessFilesSingleThread()
     {
         for (int i = 1; i <= 5; i++)
@@ -65,19 +63,23 @@ class Program
 
     static void ProcessFilesMultipleThreads()
     {
-        CountdownEvent countdown = new CountdownEvent(5);
+     
+        Thread[] threads = new Thread[5];
 
         for (int i = 1; i <= 5; i++)
         {
             var fileName = $"users{i}.json";
-            ThreadPool.QueueUserWorkItem(_ =>
-            {
-                LoadUsersFromFile(fileName);
-              
-            });
+            int index = i - 1; 
+
+            threads[index] = new Thread(() => LoadUsersFromFile(fileName));
+            threads[index].Start();
         }
 
-        countdown.Wait();
+        
+        foreach (var thread in threads)
+        {
+            thread.Join();
+        }
     }
 
 
