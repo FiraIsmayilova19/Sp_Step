@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Migrations\\20241002210718_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bus\\Migrations\\20241002210718_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|c:\\users\\user\\desktop\\github\\sp_step\\bus\\bus\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|solutionrelative:bus\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|c:\\users\\user\\desktop\\github\\sp_step\\bus\\bus\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|solutionrelative:bus\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|c:\\users\\user\\desktop\\github\\sp_step\\bus\\bus\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|solutionrelative:bus\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|c:\\users\\user\\desktop\\github\\sp_step\\bus\\bus\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|solutionrelative:bus\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|c:\\users\\user\\desktop\\github\\sp_step\\bus\\bus\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|solutionrelative:bus\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|c:\\users\\user\\desktop\\github\\sp_step\\bus\\bus\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|solutionrelative:bus\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|c:\\users\\user\\desktop\\github\\sp_step\\bus\\bus\\models\\holidays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|solutionrelative:bus\\models\\holidays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|c:\\users\\user\\desktop\\github\\sp_step\\bus\\bus\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|solutionrelative:bus\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|c:\\users\\user\\desktop\\github\\sp_step\\bus\\bus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B354688-453C-4AB1-8242-9C8CC8F0939F}|Bus\\Bus.csproj|solutionrelative:bus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241002210718_initial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Migrations\\20241002210718_initial.cs",
+              "RelativeDocumentMoniker": "Bus\\Migrations\\20241002210718_initial.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Migrations\\20241002210718_initial.cs",
+              "RelativeToolTip": "Bus\\Migrations\\20241002210718_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:07:18.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Bus\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Bus\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:52:45.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Holidays.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Holidays.cs",
+              "RelativeDocumentMoniker": "Bus\\Models\\Holidays.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Holidays.cs",
+              "RelativeToolTip": "Bus\\Models\\Holidays.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:50:39.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Ride.cs",
+              "RelativeDocumentMoniker": "Bus\\Models\\Ride.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Ride.cs",
+              "RelativeToolTip": "Bus\\Models\\Ride.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:49:36.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "Bus\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Class.cs",
+              "RelativeToolTip": "Bus\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:48:33.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "Bus\\Models\\Driver.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Driver.cs",
+              "RelativeToolTip": "Bus\\Models\\Driver.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:47:59.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Bus.cs",
+              "RelativeDocumentMoniker": "Bus\\Models\\Bus.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Bus.cs",
+              "RelativeToolTip": "Bus\\Models\\Bus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:47:10.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Bus\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Student.cs",
+              "RelativeToolTip": "Bus\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:46:35.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Parent.cs",
+              "RelativeDocumentMoniker": "Bus\\Models\\Parent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Models\\Parent.cs",
+              "RelativeToolTip": "Bus\\Models\\Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:45:25.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Program.cs",
+              "RelativeDocumentMoniker": "Bus\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\Sp_Step\\Bus\\Bus\\Program.cs",
+              "RelativeToolTip": "Bus\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:41:50.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
