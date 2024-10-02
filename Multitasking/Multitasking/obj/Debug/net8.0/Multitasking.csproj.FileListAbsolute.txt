@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\bin\Debug\net8.0\Multitasking.exe
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\bin\Debug\net8.0\Multitasking.deps.json
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\bin\Debug\net8.0\Multitasking.runtimeconfig.json
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\bin\Debug\net8.0\Multitasking.dll
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\bin\Debug\net8.0\Multitasking.pdb
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\obj\Debug\net8.0\Multitasking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\obj\Debug\net8.0\Multitasking.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\obj\Debug\net8.0\Multitasking.AssemblyInfo.cs
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\obj\Debug\net8.0\Multitasking.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\obj\Debug\net8.0\Multitasking.sourcelink.json
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\obj\Debug\net8.0\Multitasking.dll
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\obj\Debug\net8.0\refint\Multitasking.dll
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\obj\Debug\net8.0\Multitasking.pdb
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\obj\Debug\net8.0\Multitasking.genruntimeconfig.cache
+C:\Users\User\Desktop\GitHub\Sp_Step\Multitasking\Multitasking\obj\Debug\net8.0\ref\Multitasking.dll
